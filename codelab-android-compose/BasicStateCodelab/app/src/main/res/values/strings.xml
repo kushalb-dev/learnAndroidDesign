@@ -12,4 +12,8 @@
   -->
 <resources>
     <string name="app_name">StateCodelab</string>
+    <string name="you_ve_had_glasses">You\'ve had %1$d glasses.</string>
+    <string name="have_you_taken_your_15_minute_walk_today">Have you taken your 15 minute walk today</string>
+    <string name="clear_water_count">Clear Water Count</string>
+    <string name="add_one">Add one</string>
 </resources>
